@@ -70,6 +70,10 @@ plot2d3('gnn',r);
 
 ## Tabulation
 ![WhatsApp Image 2025-12-04 at 12 56 24_da19abb8](https://github.com/user-attachments/assets/46fd0496-778f-409c-bfa4-0069d2a1b298)
+![WhatsApp Image 2025-12-04 at 13 39 05_c5335daf](https://github.com/user-attachments/assets/fcad254f-9d39-4331-bcbb-f5372481d51b)
+![WhatsApp Image 2025-12-04 at 13 39 15_9b655ff2](https://github.com/user-attachments/assets/4a175fb6-9444-4345-889b-30fac1f94100)
+![WhatsApp Image 2025-12-04 at 13 39 05_144aec9a](https://github.com/user-attachments/assets/3a2f6952-b9a5-451a-8454-b72fc9eb7a93)
+
 
 
 
